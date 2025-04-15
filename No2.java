@@ -45,7 +45,7 @@ public class No2 {
             double avarage = total/jumlah;
             System.out.println("Nilai rata rata " + avarage);
         } else {
-            System.out.println("Tidak ada bilangan yang dimasukkan selain 0.");
+            System.out.println(" ");
             }
         }
     
